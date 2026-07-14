@@ -28,6 +28,4 @@ To evaluate whether these changes had a measurable effect, this project compares
 
 **Method used:** Paired Sample t-Test
 
----
-
 **Limitations**: Because there were multiple simultaneous regulation changes (power unit, aerodynamics, tires, fuel), any observed difference in overtaking index can be attributed to the 2026 regulation package as a whole, not to any single rule change in isolation.
