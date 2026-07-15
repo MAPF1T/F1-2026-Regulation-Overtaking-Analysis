@@ -12,7 +12,20 @@ Formula 1's grid position (qualifying result) has traditionally been considered 
 | Overtake Mode | Attacking cars within 1 second of the car ahead gain temporary extra deployable electrical power |
 | Power Unit Overhaul | Shift to a 50:50 combustion/electric power split, changing how drivers manage energy through a lap |
 
-To evaluate whether these changes had a measurable effect, this project compares overtaking frequency between the 2025 season (before regulation changes) and the 2026 season (after regulation changes) at circuits that appear in both seasons' calendars, using data retrieved via --
+To evaluate whether these changes had a measurable effect, this project compares overtaking frequency between the 2025 season (before regulation changes) and the 2026 season (after regulation changes), using data retrieved via the Jolpica-F1 API (the community-maintained successor to the now-retired Ergast API).
+
+**Scope:** The comparison is limited to the first 10 rounds of the 2026 season and their matching circuits from the 2025 calendar. Bahrain and Saudi Arabia (both 2025 rounds) were cancelled from the 2026 calendar and are therefore excluded. The 10 matched circuits are:
+
+Australia (Albert Park)
+China (Shanghai)
+Japan (Suzuka)
+Miami
+Canada (Montreal)
+Monaco
+Spain (Barcelona-Catalunya)
+Austria (Red Bull Ring)
+Great Britain (Silverstone)
+Belgium (Spa-Francorchamps)
 
 ## Research Question
 
