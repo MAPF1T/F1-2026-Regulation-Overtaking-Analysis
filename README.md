@@ -16,15 +16,15 @@ To evaluate whether these changes had a measurable effect, this project compares
 
 **Scope:** The comparison is limited to the first 10 rounds of the 2026 season and their matching circuits from the 2025 calendar. Bahrain and Saudi Arabia (both 2025 rounds) were cancelled from the 2026 calendar and are therefore excluded. The 10 matched circuits are:
 
-Australia (Albert Park)
-China (Shanghai)
-Japan (Suzuka)
-Miami
-Canada (Montreal)
-Monaco
-Spain (Barcelona-Catalunya)
-Austria (Red Bull Ring)
-Great Britain (Silverstone)
+Australia (Albert Park),
+China (Shanghai),
+Japan (Suzuka),
+Miami,
+Canada (Montreal),
+Monaco,
+Spain (Barcelona-Catalunya),
+Austria (Red Bull Ring),
+Great Britain (Silverstone),
 Belgium (Spa-Francorchamps)
 
 ## Research Question
